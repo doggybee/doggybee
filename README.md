@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+**Applied AI Engineer | Data Scientist | Financial Solutions | Vibe Coder**
+
+- Building practical AI, specializing in LLM applications & RAG for the financial industry.   
+- 6+ years of experience driving AI productization.   
+- MSc Machine Learning @ UCL.
+
+⚡ Seeking **Remote** or **San Diego-based** DS/AI/LLM Engineer roles.
+
+📫 Reach out via [email](mailto:shuhao.zhang95@gmail.com).
+
+
