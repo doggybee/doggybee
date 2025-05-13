@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 6+ years of experience driving AI productization.   
 - MSc Machine Learning @ UCL.
 
-⚡ Seeking DS/AI/LLM Engineer roles. 📫 Reach out via [email](mailto:shuhao.zhang95@gmail.com).
-
-
+⚡ Seeking DS/AI/LLM Engineer roles.   
+📄 Resume [View](https://drive.google.com/file/d/1xdMAcLgjUZ3RLwUvyvvsaJR_IZJe5ZEY/preview) | [Download](https://github.com/doggybee/doggybee/raw/main/ShuhaoZhang_resume.pdf).   
+📫 Reach out via [Email](mailto:shuhao.zhang95@gmail.com).
